@@ -32,3 +32,4 @@ options.db
 trades.db 
 
 connection*.json
+Pipfile.lock
